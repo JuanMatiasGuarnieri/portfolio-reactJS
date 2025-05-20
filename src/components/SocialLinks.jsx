@@ -2,6 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import CV from "../assets/Portfolio/CV_GuarnieriJuanMatias.pdf";
 
 const SocialLinks = () => {
   const linksSocial = [
@@ -43,7 +44,7 @@ const SocialLinks = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: CV,
       style: "rounded-br-md",
       download: true,
     },
