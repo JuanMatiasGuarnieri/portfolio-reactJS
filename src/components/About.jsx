@@ -10,8 +10,9 @@ const About = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">Sobre Mi</p>
         </div>
         <p className="text-xl mt-20">
-          Vendo Falopa a la vuelta de tu casa y no me rompas los huevos cuando
-          estoy de mal humor.
+          Me considero una persona racional,responsable, comprometida, con una gran capacidad y voluntad de aprendizaje. 
+          Siempre dispuesto a ayudar y colaborar con distintas soluciones creativas. Tengo facilidad
+          para las relaciones interpersonales y las actividades en grupo.
         </p>
         <br/>
           <p className="text-xl">
