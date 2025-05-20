@@ -40,7 +40,7 @@ const SocialLinks = () => {
       id: 4,
       child: (
         <>
-          Resume
+          CurriculumVitae
           <BsFillPersonLinesFill size={30} />
         </>
       ),
